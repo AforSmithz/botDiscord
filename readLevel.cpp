@@ -34,7 +34,7 @@ int checkLevel(std::string s)
     int sentences = 0;
     int letters = 0;
 
-    for(int i = 0; i <= s.length(); i++)
+    for(int i = 0; i <= s.length() ; i++)
     {
         char character = s[i];
 
