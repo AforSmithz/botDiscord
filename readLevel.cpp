@@ -1,3 +1,7 @@
+/* Abiseno Arya Pramodana */
+/* Checking reading level for user inputted texts*/
+/*=====================================================================================*/
+
 #include <iostream>
 #include <cmath>
 #include <string>
